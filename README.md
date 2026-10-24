@@ -9,11 +9,9 @@ I’m a student developer in India. I learn by building small projects and impro
 - HTML, CSS and JavaScript
 - Git and GitHub
 
-## Project
+## Current work
 
-### [Shop Management System](https://github.com/sanskar-37/ShopManagement)
-
-A Python command-line app for inventory, billing and sales reports. It stores records locally and includes tests for stock and billing behaviour.
+I use small projects to practise the tools I’m learning and to get better at building, testing and documenting software.
 
 ## Find me
 
